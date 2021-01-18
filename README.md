@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamedeiros&hide=html&layout=compact&theme=cobalt" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rebecamedeiros&theme=cobalt"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamedeiros&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rebecamedeiros&theme=tokyonight"/></td>
     </tr>   
 </table>
 </center>  
