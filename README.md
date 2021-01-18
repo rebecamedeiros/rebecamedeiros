@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 - :books: Engenharia da Computação, UFPB
 - :sunny: João Pessoa, Brasil
-- :computer: Estudando Python, SQL e Go.
-
+- :computer: Estudando Python, SQL e Go
+- :clapper: Gosto de ver filmes e séries
+- :book: Gosto de ler livros de ficção científica
 --- 
+Fiz parte durante dois anos do projeto de extensão "Oficinas de Programação para Meninas do Ensino Médio: estimulando o interesse pela computação" do grupo Meninas na Ciência da Computação da UFPB. 
 
