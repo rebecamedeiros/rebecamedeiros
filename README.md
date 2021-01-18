@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 24 anos
-- Enganharia da Computação, UFPB 
-- João Pessoa, Brasil
+- :books: Engenharia da Computação, UFPB
+- :sunny: João Pessoa, Brasil
+- :computer: Estudando Python, SQL e Go.
+
+--- 
+
