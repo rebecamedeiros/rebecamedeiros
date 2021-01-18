@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rebeca Medeiros :star2: 
 
 <!--
 **rebecamedeiros/rebecamedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamedeiros&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=rebecamedeiros&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
+- 24 anos
+- Enganharia da Computação, UFPB 
+- João Pessoa, Brasil
